@@ -1,0 +1,111 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0;
+}
+header{
+    
+    background-color: rgb(50, 170, 240);
+    height: 232px;
+}
+.titulo{
+    color: rgba(4, 52, 156, 0.836);
+    text-align: center;
+    font-size: 30px;
+    margin-top: -150px;
+    
+}
+.logo{
+    display: flex;
+    margin-left: 50px;
+    padding-top: 70px;
+    height: 160px;
+    width: 160px;
+}
+
+/*Estilo de la barra de navegacion*/
+
+ul{
+    display: flex;
+    background-color: rgb(70, 68, 68);
+    height: 40px;
+    width: 100%;
+    margin-left: 0px; 
+    margin-top: 0px;   
+}
+ul li{
+    display: flex;
+    text-decoration: none;
+    font-size: 15px;
+}
+/*Estilo de los enlaces de la barra de la barra de navegacion*/
+li a{
+    display: flex;
+    color: white;
+    text-align: center;
+    margin-left: 150px;
+    text-decoration: none;
+    padding: 5px 10px 5px 10px;
+    line-height: 30px;
+}
+
+/*Para que los links de la barra de navegacion cambien de color cuando se pasa el raton por encima de cualquiera de ellos*/
+li a:hover{
+    display: flex;
+    background-color: rgb(31, 30, 30);
+    color: white;
+     
+}
+/*Carrusel de fotos*/
+#slider{
+    width: 85%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 60px;
+}
+.fotos{
+    vertical-align: top;
+    display: inline-block;
+}
+.op50{
+    opacity: 0.5;
+}
+.op75{
+    opacity: 0.75;
+}
+main{
+    margin-left: 40px;
+    margin-top: 40px;
+}
+
+#container{
+    display: flex;
+}
+
+aside{
+    width: 30%;
+    height: auto;
+    background-color: rgb(243, 243, 236);
+    margin-top: -16px;
+    margin-left: 10px;
+
+}
+
+section{
+    width: 70%;
+    height: auto;
+    background-color: rgb(203, 232, 241);
+    margin-top: -16px;
+    padding: 15px;
+}
+
+footer{
+    background-color: rgb(157, 187, 250);
+    padding: 30px; 
+    text-align: center;      
+}
+form div{
+    margin-bottom: 15px;
+}

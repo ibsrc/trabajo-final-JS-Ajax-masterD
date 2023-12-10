@@ -1,0 +1,9 @@
+
+{
+    "noticias":[
+        {"titular":"La Tamborrada del reencuentro bate récords","descripcion":" Este año van a desfilar 20.409 personas repartidas en las 157 compañías de adultos que participan en el Día de San Sebastián"},
+        {"titular":"Denuncian el “deterioro” de la atención sanitaria en Bidasoa","descripcion":" La plataforma Osasun Bidasoa denunció ayer el “deterioro creciente” de la atención sanitaria en esta comarca guipuzcoana y afirmó que “no hay voluntad alguna” ni de la gerencia de la OSI ni de la Consejería de Salud “de tomar medidas para remediarlo”, por lo que han decidido convocar concentraciones de protesta."},
+        {"titular":"La Real tritura al Athletic y provoca el delirio en el Reale Arena","descripcion":" Apoteosis en el Reale Arena. Si el partido fue bueno, malo o regular a pocos aficionados de la Real Sociedad les importará al ver que tras el pitido final el marcador reflejó un 3-1 en el derbi vasco frente al Athletic Club. Triunfo maravilloso por ser un encuentro tan especial, por dejar a los rojiblancos a nueve puntos, y encima por ver marcar a Mikel Oyarzabal por primera vez tras su lesión. Pero aún se puede añadir más."},
+        {"titular":"Guerra entre Ucrania y Rusia: La ONU confía en alcanzar un acuerdo para proteger la central de Zaporiyia, pero advierte de que la negociación es difícil","descripcion":" El Reino Unido confirma que enviará 14 tanques de combate a Ucrania e insta a Alemania a permitir el suministro | Unas 47 personas siguen desaparecidas tras el bombardeo a un edificio residencial de Dnipró."}
+    ]
+}
